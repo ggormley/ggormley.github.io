@@ -1,0 +1,197 @@
+ <!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>North Dublin Aikido</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="We emphasise movement, contact and freedom. Our classes are constructive, open and vigorous.">
+    <link rel="canonical" href="https://NorthDublinAikido.com/NorthDublinAikido/">
+    <p> This site is under construction</p>
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="/NorthDublinAikido/style.css">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="/NorthDublinAikido/css/font-awesome/css/font-awesome.min.css">
+    <link href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+    <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+     <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <i class="fa fa-play-circle"></i>  <span class="light">Dublin</span> Aikikai
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#starting">Starting</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#classes">Classes</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+        <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-10 col-md-offset-1">
+                        <h1 class="brand-heading">North Dublin Aikido<br>Aikido</h1>
+                        <p class="intro-text">We emphasise movement, contact and freedom.<br>Our classes are constructive, open and dynamic.</p>
+                        <a href="#about" class="btn btn-circle page-scroll">
+                            <i class="fa fa-angle-double-down animated"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+        <!-- About Section -->
+    <section id="about" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>About Aikido</h2>
+                <p>Aikido is a Japanese martial art that deals with aggression by blending with and redirecting an attack rather than meeting it head on. Its techniques are based on natural flowing motion rather than strength, so aikido is suitable for both sexes and for people of all ages.</p>
+
+                <p>As well as being an effective form of self-defence, aikido’s natural movements help to relax the body and to release stress and tension. Regular practise will improve co-ordination, posture, self confidence, concentration and fitness level.</p>
+            </div>
+        </div>
+    </section>
+        <!-- Starting Section -->
+    <section id="starting" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Starting Aikido</h2>
+                <p>North Dublin Aikido train twice a week, and offer private lessons. We run regular beginners courses to teach the basic movements required to learn Aikido in a fun and safe manor. Please <a href="#contact">contact us</a> for dates of the next course.</p>
+
+                <p>Classes are adapted to the level of the students attending, so we can accept new enrolements between courses. Please <a href="#contact">contact us</a> for more information.</p>
+
+                <p>Classes take place in a friendly, open environment where beginners and more advanced students train together.</p>
+
+                <p>No special equipment is required - just loose, comfortable clothing such as tracksuit bottoms and a t-shirt. Normally once students commit to learning Aikido they purchase a <a href="https://en.wikipedia.org/wiki/Keikogi">keikogi</a>. This is not compulsory but most students find them more comfortable. Standard jodo keikogi are available in all sizes in specialist martial arts shops and larger sports stores.</p>
+            </div>
+        </div>
+    </section>
+        <!-- Classes Section -->
+    <section id="classes" class="container content-section">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Class times</h2>
+                <table class="table">
+                    <thead>
+                    <tr>
+                        <th>Day</th>
+                        <th>Venue</th>
+                        <th>Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Tuesdays</td>
+                        <td>Malahide Parish Pastoral Centre</td>
+                        <td>20.30 - 21.30</td>
+                    </tr>
+                    <tr>
+                        <td>Saturdays</td>
+                        <td>Malahide Parish Pastoral Centre</td>
+                        <td>10.30 - 11.30</td>
+                    </tr>
+                 </tbody>
+                </table>
+
+                <h3>Location:</h3>
+ 
+                <p> Malahide Parish Pastoral Centre <br>
+		    (Attached to St Sylvesters Church) <br>
+                    Malahide Main St<br>
+                    Co. Dublin</p>
+
+              
+                <h3>Fees</h3>
+                <p>We have an introductory offer of 6 classes for €60.</p>
+
+                <p>Pricing structure: €15 per class, or a 10 class pass €120 (to be used within 3 months, 
+                €70 per month for unlimited classes or €180 for 3 month pass for unlimited classes. Drop in class for affiliated members €7.50</p>
+                <p>If due to work or other reasons you have irregular class attendance please do not hesitate to contact us as we are happy to discuss other pricing options.  We can also concessions to students and the unemployed.</p>
+            </div>
+        </div>
+    </section>
+        <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Contact</h2>
+                <p>Email us if you have any questions or comments.</p>
+                <p><a href="mailto:markryanbawn@yahoo.com">markraynbawn@yahoo.com</a></p>
+		<p>Or ring me (Mark Ryan) on 087-6186774.</p>
+                <p>(Please read our section on <a href="#starting">starting aikido</a>).</p>
+                <p>Like our page on Facebook to keep up to date with the latest club news, up coming events and class details. (You do not have to be a member to connect).
+                <ul class="list-inline banner-social-buttons">
+                    
+                    <li>
+                        <a href="https://www.facebook.com/NorthDublinAikido" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">facebook</span></a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </section>
+        <!-- Map Section -->
+    <div id="map"></div>
+
+        <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Copyright &copy; Your Website 2015</p>
+        </div>
+    </footer>
+
+     <!-- jQuery Version 1.11.0 -->
+    <script src="/NorthDublinAikido/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/NorthDublinAikido/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="/NorthDublinAikido/js/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/NorthDublinAikido/js/grayscale.js"></script>
+    </body>
+</html>
